@@ -1,0 +1,19 @@
+body{
+    background-image: conic-gradient( rgb(238, 179, 61) , rgb(128, 8, 68), rgb(17, 106, 166), rgb(0, 0, 154));
+    text-align: center;
+    color: rgba(247, 141, 11, 0);
+    text-shadow: 2px 2px 2px rgb(245, 71, 8);
+}
+h1{
+    color: rgba(209, 11, 193, 0.87);
+    text-shadow: 0px 0px 5px rgba(245, 245, 245, 0.918) ;
+}
+h2{
+    color: rgba(252, 252, 252, 0);
+    text-shadow: 1px 1px 2px rgb(255, 255, 255), 2px 2px 1px rgba(220, 20, 60, 0.878), 1px 2px 1px rgba(221, 123, 12, 0.862);
+}
+#cal{
+    width: 600px ;
+   height: 400px ;
+   
+}
